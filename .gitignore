@@ -1,0 +1,21 @@
+# Maven
+target/
+
+# Base de datos H2 local
+data/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+.factorypath
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de extensiones de VS Code
+.github/modernize/
